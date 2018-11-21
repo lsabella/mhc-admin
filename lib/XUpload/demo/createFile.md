@@ -13,7 +13,7 @@ title:
 
 Upload Files.
 ````jsx
-import { XUpload } from 'mhc-antd-admin'
+import { XUpload } from 'mhc-admin'
 import React ,{Component} from 'react'
 import {Button} from 'antd'
 import '../index.less'

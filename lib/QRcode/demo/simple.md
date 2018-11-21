@@ -14,10 +14,10 @@ title:
 Used to generate qr code.
 
 ````jsx
-import {QRcode} from 'mhc-antd-admin';
+import {QRcode} from 'mhc-admin';
 
 
 ReactDOM.render(
- <QRcode text='二维码生成' size={160} colsize={12}></QRcode>
+ <QRcode text='生成二维码' size={150} colsize={12}></QRcode>
 , mountNode);
 ````

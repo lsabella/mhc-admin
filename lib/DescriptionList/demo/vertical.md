@@ -14,7 +14,7 @@ title:
 Vertical layout.
 
 ````jsx
-import { DescriptionList } from 'mhc-antd-admin';
+import { DescriptionList } from 'mhc-admin';
 
 const { Description } = DescriptionList;
 

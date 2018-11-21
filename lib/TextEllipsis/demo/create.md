@@ -12,7 +12,7 @@ title:
 
 ````jsx
 import { Button } from 'antd';
-import { TextEllipsis } from 'mhc-antd-admin';
+import { TextEllipsis } from 'mhc-admin';
 
 const text1 = 'An open source react rich-text editor ( mordern react editor includes media support such as texts, images, videos, audios, links etc. ), development based on Draft-Js and Ant-design, good support html, markdown, draft-raw mode. ';
 

@@ -8,7 +8,7 @@ title:
 空内容提示 页面，配合自定义操作。
 
 ````jsx
-import { EmptyContent } from 'mhc-antd-admin';
+import { EmptyContent } from 'mhc-admin';
 import { Button } from 'antd';
 
 const actions = (
