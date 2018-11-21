@@ -1,7 +1,7 @@
 const path = require('path');
 module.exports = {
   port: 9011,
-  root: '/mhc-antd-admin/',
+  root: '/mhc-admin/',
   source: {
     components: './components',
     docs: './docs',
@@ -27,7 +27,7 @@ module.exports = {
   ],
   webpackConfig(config) {
     config.resolve.alias = {
-      'mhc-antd-admin': path.join(process.cwd(), 'components/index.js'),
+      'mhc-admin': path.join(process.cwd(), 'components/index.js'),
       site: path.join(process.cwd(), 'site'),
       'react-router': 'react-router/umd/ReactRouter',
     };

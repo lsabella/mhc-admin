@@ -21,11 +21,11 @@ MHC Antd Admin 致力于提供给提升管理平台前端的开发体验和开�
 安装
 
 ```
-npm install mhc-antd-admin --save
+npm install mhc-admin --save
 ```
 
 ## 按需引用
 
 ```
-import { XSelect } from 'mhc-antd-admin'
+import { XSelect } from 'mhc-admin'
 ```

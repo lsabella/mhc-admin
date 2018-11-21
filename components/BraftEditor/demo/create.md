@@ -12,7 +12,7 @@ title:
 
 ````jsx
 import { List } from 'antd';
-import { BraftEditor } from 'mhc-antd-admin';
+import { BraftEditor } from 'mhc-admin';
 
 class App extends React.Component {
   render() {

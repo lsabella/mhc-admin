@@ -1,6 +1,6 @@
 ## 基于 `React + Antd` 的扩展组件库
 
-[在线文档](https://git-lt.github.io/mhc-antd-admin/)
+[在线文档](https://git-lt.github.io/mhc-admin/)
 
 ### 启动项目
 

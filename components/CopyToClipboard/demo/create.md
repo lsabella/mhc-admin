@@ -9,7 +9,7 @@ title:
 
 ````jsx
 import { Input } from 'antd';
-import { CopyToClipboard } from 'mhc-antd-admin';
+import { CopyToClipboard } from 'mhc-admin';
 
 const { TextArea } = Input;
 

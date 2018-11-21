@@ -14,7 +14,7 @@ title:
 Used to generate qr code.
 
 ````jsx
-import {QRcode} from 'mhc-antd-admin';
+import {QRcode} from 'mhc-admin';
 
 
 ReactDOM.render(

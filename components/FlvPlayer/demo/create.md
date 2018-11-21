@@ -8,7 +8,7 @@ title:
 最简单的用法。
 
 ````jsx
-import { FlvPlayer } from 'mhc-antd-admin';
+import { FlvPlayer } from 'mhc-admin';
 
 class App extends React.Component {
   render() {

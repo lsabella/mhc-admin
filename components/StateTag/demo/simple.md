@@ -15,7 +15,7 @@ title:
 For simple state discrimination.
 
 ````jsx
-import {StateTag} from 'mhc-antd-admin';
+import {StateTag} from 'mhc-admin';
 
 const tagtype = [
   { key: '-1', value: '全部', color:'#1890ff' },
