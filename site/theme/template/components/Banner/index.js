@@ -52,7 +52,7 @@ class Banner extends React.PureComponent {
             type="bottom"
           >
             <h1 key="h1">
-              MHC Antd Admin
+              MHC Admin
             </h1>
             <p key="p">开箱即用的中台前端/设计解决方案。</p>
             <div className="banner-btns" key="buttons">

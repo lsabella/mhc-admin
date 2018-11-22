@@ -8,11 +8,11 @@ export default props => {
   const defaultSelectedKeys = [props.location.pathname !== '/' ? 'docs/react' : '/'];
   return <header id="header">
     <div className="header-inner">
-      <h2>MHC Antd Admin</h2>
+      <h2>MHC Admin</h2>
       <Menu className="menu-site" key="nav" mode="horizontal" defaultSelectedKeys={defaultSelectedKeys}>
         <MenuItem key="/"> <Link to="/">首页</Link></MenuItem>
         <MenuItem key="docs/react"> <Link to="/docs/start">组件</Link></MenuItem>
-        <MenuItem key="github"> <a href="https://github.com/git-lt/mhc-admin/tree/master">Github</a></MenuItem>
+        <MenuItem key="github"> <a href="https://github.com/lsabella/mhc-admin/tree/master">Github</a></MenuItem>
       </Menu>
     </div>
   </header>;
