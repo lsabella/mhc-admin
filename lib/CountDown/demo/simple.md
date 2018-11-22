@@ -14,7 +14,7 @@ title:
 The simplest usage.
 
 ````jsx
-import {CountDown} from 'mhc-antd-admin';
+import {CountDown} from 'mhc-admin';
 
 const targetTime = new Date().getTime() + 3900000;
 

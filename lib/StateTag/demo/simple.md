@@ -11,7 +11,7 @@ title:
 进行分类。
 
 ````jsx
-import {StateTag} from 'mhc-antd-admin';
+import {StateTag} from 'mhc-admin';
 
  const tagtype_yanche = {
     '5': { text: '待分配', state: 'warning' },

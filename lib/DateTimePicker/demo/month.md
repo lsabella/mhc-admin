@@ -12,7 +12,7 @@ title:
 
 
 ````jsx
-import { DateTimePicker } from 'mhc-antd-admin';
+import { DateTimePicker } from 'mhc-admin';
 ReactDOM.render( 
   <DateTimePicker type="DatePicker" title='开始日期' required >
   </DateTimePicker>,

@@ -10,7 +10,7 @@ title:
 
 ````jsx
 import { List, Card, Button } from 'antd';
-import { BgImg } from 'mhc-antd-admin';
+import { BgImg } from 'mhc-admin';
 
 class App extends React.Component {
   state = {

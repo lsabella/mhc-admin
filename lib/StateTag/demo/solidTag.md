@@ -11,7 +11,7 @@ title:
 
 
 ````jsx
-import {StateTag} from 'mhc-antd-admin';
+import {StateTag} from 'mhc-admin';
 
 
  const tagtype_yanche = {

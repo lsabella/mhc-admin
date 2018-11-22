@@ -16,7 +16,7 @@ The most basic usage.
 ````jsx
 import { Fragment } from 'react';
 import { Button, Input, Divider } from 'antd';
-import { XTable, XRadioGroup } from 'mhc-antd-admin';
+import { XTable, XRadioGroup } from 'mhc-admin';
 import axios from 'axios';
 
 const { Search } = Input;

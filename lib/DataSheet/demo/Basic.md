@@ -11,7 +11,7 @@ title:
 进行分类。
 
 ````jsx
-import {DataSheet} from 'mhc-antd-admin';
+import {DataSheet} from 'mhc-admin';
 
 ReactDOM.render(
   <DataSheet></DataSheet>

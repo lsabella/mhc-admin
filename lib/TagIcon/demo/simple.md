@@ -14,7 +14,7 @@ title:
 For simple state discrimination.
 
 ````jsx
-import {TagIcon} from 'mhc-antd-admin';
+import {TagIcon} from 'mhc-admin';
 
 
 ReactDOM.render(

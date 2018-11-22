@@ -8,7 +8,7 @@ title:
 搜索为空时的提示，配合自定义操作。
 
 ````jsx
-import { EmptyContent } from 'mhc-antd-admin';
+import { EmptyContent } from 'mhc-admin';
 import { Button } from 'antd';
 
 const actions = (

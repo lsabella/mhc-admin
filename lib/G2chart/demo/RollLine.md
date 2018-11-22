@@ -11,7 +11,7 @@ title:
 进行分类。
 
 ````jsx
-import {Series} from 'mhc-antd-admin';
+import {Series} from 'mhc-admin';
 
 
 ReactDOM.render(
