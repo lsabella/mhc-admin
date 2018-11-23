@@ -60,7 +60,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Layout/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Layout/index.js');
   leaveModule(module);
 })();
 
@@ -72,7 +72,7 @@ module.exports = exports['default'];
 /***/ 1458:
 /***/ (function(module, exports) {
 
-module.exports = {"_args":[["antd@3.7.3","/Users/user18/self_learn/mhc-admin"]],"_from":"antd@3.7.3","_id":"antd@3.7.3","_inBundle":false,"_integrity":"sha512-igWOf7KL8TKa4yXDU4WQ8v1397swUMfV89hQLZ5ggdAI0M1UtOAnfL5h2/uWxUT8wnb99W6IYkACetj5VQKExA==","_location":"/antd","_phantomChildren":{},"_requested":{"type":"version","registry":true,"raw":"antd@3.7.3","name":"antd","escapedName":"antd","rawSpec":"3.7.3","saveSpec":null,"fetchSpec":"3.7.3"},"_requiredBy":["/"],"_resolved":"https://registry.npmjs.org/antd/-/antd-3.7.3.tgz","_spec":"3.7.3","_where":"/Users/user18/self_learn/mhc-admin","bugs":{"url":"https://github.com/ant-design/ant-design/issues"},"contributors":[{"name":"ant"}],"dependencies":{"array-tree-filter":"^2.0.0","babel-runtime":"6.x","classnames":"~2.2.0","create-react-class":"^15.6.0","create-react-context":"^0.2.2","css-animation":"^1.2.5","dom-closest":"^0.2.0","enquire.js":"^2.1.1","intersperse":"^1.0.0","lodash":"^4.17.5","moment":"^2.19.3","omit.js":"^1.0.0","prop-types":"^15.5.7","raf":"^3.4.0","rc-animate":"^2.4.1","rc-calendar":"~9.6.0","rc-cascader":"~0.14.0","rc-checkbox":"~2.1.5","rc-collapse":"~1.9.0","rc-dialog":"~7.1.0","rc-drawer":"~1.6.2","rc-dropdown":"~2.2.0","rc-editor-mention":"^1.0.2","rc-form":"^2.1.0","rc-input-number":"~4.0.0","rc-menu":"~7.0.2","rc-notification":"~3.1.1","rc-pagination":"~1.16.1","rc-progress":"~2.2.2","rc-rate":"~2.4.0","rc-select":"~8.0.7","rc-slider":"~8.6.0","rc-steps":"~3.1.0","rc-switch":"~1.6.0","rc-table":"~6.2.2","rc-tabs":"~9.2.0","rc-time-picker":"~3.3.0","rc-tooltip":"~3.7.0","rc-tree":"~1.12.0","rc-tree-select":"~2.0.5","rc-trigger":"^2.5.4","rc-upload":"~2.5.0","rc-util":"^4.0.4","react-lazy-load":"^3.0.12","react-lifecycles-compat":"^3.0.2","react-slick":"~0.23.1","shallowequal":"^1.0.1","warning":"~4.0.1"},"description":"An enterprise-class UI design language and React-based implementation","devDependencies":{"@babel/types":"7.0.0-beta.44","@types/react":"^16.0.0","@types/react-dom":"^16.0.0","@yesmeck/offline-plugin":"^5.0.5","ansi-styles":"^3.2.0","ant-design-palettes":"^1.0.0","antd-theme-generator":"1.0.7","antd-tools":"^5.1.6","babel-cli":"^6.18.0","babel-eslint":"^8.2.5","babel-plugin-import":"^1.0.0","babel-plugin-transform-runtime":"^6.23.0","babel-preset-es2015":"^6.18.0","babel-preset-react":"^6.16.0","babel-preset-stage-0":"^6.16.0","bezier-easing":"^2.0.3","bisheng":"^0.28.0","bisheng-plugin-antd":"^0.16.0","bisheng-plugin-description":"^0.1.1","bisheng-plugin-react":"^0.6.0","bisheng-plugin-toc":"^0.4.0","commander":"^2.11.0","cross-env":"^5.0.3","css-split-webpack-plugin":"^0.2.3","dekko":"^0.2.0","delegate":"^3.1.2","docsearch.js":"^2.5.2","dora-plugin-upload":"^0.3.1","enquire-js":"^0.2.1","enzyme":"^3.1.0","enzyme-adapter-react-16":"^1.0.0","enzyme-to-json":"^3.1.2","eslint":"^5.1.0","eslint-config-airbnb":"^17.0.0","eslint-plugin-babel":"^5.0.0","eslint-plugin-import":"^2.2.0","eslint-plugin-jsx-a11y":"6.0.2","eslint-plugin-markdown":"~1.0.0-beta.4","eslint-plugin-react":"^7.10.0","eslint-tinker":"^0.5.0","fetch-jsonp":"^1.0.3","glob":"^7.1.1","immutability-helper":"^2.5.0","intersection-observer":"^0.5.0","jest":"^23.2.0","jsdom":"~11.10.0","jsonml.js":"^0.1.0","lint-staged":"^7.0.0","lz-string":"^1.4.4","majo":"^0.6.2","mockdate":"^2.0.1","moment-timezone":"^0.5.5","pre-commit":"^1.2.2","preact":"^8.2.5","preact-compat":"^3.17.0","querystring":"^0.2.0","rc-queue-anim":"^1.4.1","rc-scroll-anim":"^2.2.1","rc-tween-one":"^2.0.1","react":"^16.3.2","react-color":"^2.11.7","react-copy-to-clipboard":"^5.0.0","react-dnd":"^5.0.0","react-dnd-html5-backend":"^5.0.1","react-document-title":"^2.0.1","react-dom":"^16.3.2","react-github-button":"^0.1.1","react-infinite-scroller":"^1.0.15","react-intl":"^2.0.1","react-router-dom":"^4.2.2","react-sublime-video":"^0.2.0","react-virtualized":"~9.20.0","remark-frontmatter":"^1.1.0","remark-parse":"^5.0.0","remark-stringify":"^5.0.0","remark-yaml-config":"^4.0.1","reqwest":"^2.0.5","rimraf":"^2.5.4","scrollama":"^1.4.1","stylelint":"9.4.0","stylelint-config-standard":"^18.0.0","typescript":"~2.9.1","unified":"^7.0.0","values.js":"^1.0.3","xhr-mock":"^2.4.0","xhr2":"^0.1.3"},"files":["dist","lib","es"],"homepage":"http://ant.design/","keywords":["ant","design","react","react-component","component","components","ui","framework","frontend"],"license":"MIT","lint-staged":{"components/**/*.tsx":["npm run lint-staged:ts"],"{tests,site,scripts,components}/**/*.{js,jsx}":["npm run lint-staged:es"],"{site,components}/**/*.less":"stylelint --syntax less","components/*/demo/*.md":["npm run lint-staged:demo"]},"main":"lib/index.js","module":"es/index.js","name":"antd","peerDependencies":{"react":">=16.0.0","react-dom":">=16.0.0"},"pre-commit":["lint-staged"],"repository":{"type":"git","url":"git+https://github.com/ant-design/ant-design.git"},"scripts":{"authors":"git log --format='%aN <%aE>' | sort -u | grep -v 'users.noreply.github.com' | grep -v 'gitter.im' | grep -v '.local>' | grep -v 'alibaba-inc.com' | grep -v 'alipay.com' | grep -v 'taobao.com' > AUTHORS.txt","compile":"antd-tools run compile","deploy":"bisheng gh-pages --push-only","dist":"antd-tools run dist","lint":"npm run lint:ts && npm run lint:es && npm run lint:demo && npm run lint:style","lint-fix":"npm run lint-fix:code && npm run lint-fix:demo","lint-fix:code":"eslint --fix tests site scripts components ./.eslintrc.js ./webpack.config.js --ext '.js,.jsx'","lint-fix:demo":"eslint-tinker ./components/*/demo/*.md","lint-fix:ts":"npm run tsc && antd-tools run ts-lint-fix","lint-staged":"lint-staged","lint-staged:demo":"cross-env RUN_ENV=DEMO eslint --ext '.md'","lint-staged:es":"eslint ./.eslintrc.js ./webpack.config.js","lint-staged:ts":"tsc && node node_modules/tslint/bin/tslint","lint:demo":"cross-env RUN_ENV=DEMO eslint components/*/demo/*.md --ext '.md'","lint:es":"eslint tests site scripts components ./.eslintrc.js ./webpack.config.js --ext '.js,.jsx'","lint:style":"stylelint \"{site,components}/**/*.less\" --syntax less","lint:ts":"npm run tsc && antd-tools run ts-lint","pre-publish":"npm run test-all && node ./scripts/prepub","predeploy":"antd-tools run clean && npm run site && cp netlify.toml _site","prepublish":"antd-tools run guard","pub":"antd-tools run pub","site":"cross-env NODE_ENV=production bisheng build --ssr -c ./site/bisheng.config.js && node ./scripts/generateColorLess.js","sort-api":"node ./scripts/sort-api-table.js","start":"rimraf _site && mkdir _site && node ./scripts/generateColorLess.js && cross-env NODE_ENV=development bisheng start -c ./site/bisheng.config.js","start:preact":"node ./scripts/generateColorLess.js && cross-env NODE_ENV=development REACT_ENV=preact bisheng start -c ./site/bisheng.config.js","test":"jest --config .jest.js","test-all":"./scripts/test-all.sh","test-node":"jest --config .jest.node.js","tsc":"tsc"},"sideEffects":["es/**/style/*","lib/**/style/*"],"title":"Ant Design","typings":"lib/index.d.ts","version":"3.7.3"}
+module.exports = {"_args":[["antd@3.7.3","/Users/user18/self_learn/mhc-antd-admin"]],"_from":"antd@3.7.3","_id":"antd@3.7.3","_inBundle":false,"_integrity":"sha512-igWOf7KL8TKa4yXDU4WQ8v1397swUMfV89hQLZ5ggdAI0M1UtOAnfL5h2/uWxUT8wnb99W6IYkACetj5VQKExA==","_location":"/antd","_phantomChildren":{},"_requested":{"type":"version","registry":true,"raw":"antd@3.7.3","name":"antd","escapedName":"antd","rawSpec":"3.7.3","saveSpec":null,"fetchSpec":"3.7.3"},"_requiredBy":["/"],"_resolved":"https://registry.npmjs.org/antd/-/antd-3.7.3.tgz","_spec":"3.7.3","_where":"/Users/user18/self_learn/mhc-antd-admin","bugs":{"url":"https://github.com/ant-design/ant-design/issues"},"contributors":[{"name":"ant"}],"dependencies":{"array-tree-filter":"^2.0.0","babel-runtime":"6.x","classnames":"~2.2.0","create-react-class":"^15.6.0","create-react-context":"^0.2.2","css-animation":"^1.2.5","dom-closest":"^0.2.0","enquire.js":"^2.1.1","intersperse":"^1.0.0","lodash":"^4.17.5","moment":"^2.19.3","omit.js":"^1.0.0","prop-types":"^15.5.7","raf":"^3.4.0","rc-animate":"^2.4.1","rc-calendar":"~9.6.0","rc-cascader":"~0.14.0","rc-checkbox":"~2.1.5","rc-collapse":"~1.9.0","rc-dialog":"~7.1.0","rc-drawer":"~1.6.2","rc-dropdown":"~2.2.0","rc-editor-mention":"^1.0.2","rc-form":"^2.1.0","rc-input-number":"~4.0.0","rc-menu":"~7.0.2","rc-notification":"~3.1.1","rc-pagination":"~1.16.1","rc-progress":"~2.2.2","rc-rate":"~2.4.0","rc-select":"~8.0.7","rc-slider":"~8.6.0","rc-steps":"~3.1.0","rc-switch":"~1.6.0","rc-table":"~6.2.2","rc-tabs":"~9.2.0","rc-time-picker":"~3.3.0","rc-tooltip":"~3.7.0","rc-tree":"~1.12.0","rc-tree-select":"~2.0.5","rc-trigger":"^2.5.4","rc-upload":"~2.5.0","rc-util":"^4.0.4","react-lazy-load":"^3.0.12","react-lifecycles-compat":"^3.0.2","react-slick":"~0.23.1","shallowequal":"^1.0.1","warning":"~4.0.1"},"description":"An enterprise-class UI design language and React-based implementation","devDependencies":{"@babel/types":"7.0.0-beta.44","@types/react":"^16.0.0","@types/react-dom":"^16.0.0","@yesmeck/offline-plugin":"^5.0.5","ansi-styles":"^3.2.0","ant-design-palettes":"^1.0.0","antd-theme-generator":"1.0.7","antd-tools":"^5.1.6","babel-cli":"^6.18.0","babel-eslint":"^8.2.5","babel-plugin-import":"^1.0.0","babel-plugin-transform-runtime":"^6.23.0","babel-preset-es2015":"^6.18.0","babel-preset-react":"^6.16.0","babel-preset-stage-0":"^6.16.0","bezier-easing":"^2.0.3","bisheng":"^0.28.0","bisheng-plugin-antd":"^0.16.0","bisheng-plugin-description":"^0.1.1","bisheng-plugin-react":"^0.6.0","bisheng-plugin-toc":"^0.4.0","commander":"^2.11.0","cross-env":"^5.0.3","css-split-webpack-plugin":"^0.2.3","dekko":"^0.2.0","delegate":"^3.1.2","docsearch.js":"^2.5.2","dora-plugin-upload":"^0.3.1","enquire-js":"^0.2.1","enzyme":"^3.1.0","enzyme-adapter-react-16":"^1.0.0","enzyme-to-json":"^3.1.2","eslint":"^5.1.0","eslint-config-airbnb":"^17.0.0","eslint-plugin-babel":"^5.0.0","eslint-plugin-import":"^2.2.0","eslint-plugin-jsx-a11y":"6.0.2","eslint-plugin-markdown":"~1.0.0-beta.4","eslint-plugin-react":"^7.10.0","eslint-tinker":"^0.5.0","fetch-jsonp":"^1.0.3","glob":"^7.1.1","immutability-helper":"^2.5.0","intersection-observer":"^0.5.0","jest":"^23.2.0","jsdom":"~11.10.0","jsonml.js":"^0.1.0","lint-staged":"^7.0.0","lz-string":"^1.4.4","majo":"^0.6.2","mockdate":"^2.0.1","moment-timezone":"^0.5.5","pre-commit":"^1.2.2","preact":"^8.2.5","preact-compat":"^3.17.0","querystring":"^0.2.0","rc-queue-anim":"^1.4.1","rc-scroll-anim":"^2.2.1","rc-tween-one":"^2.0.1","react":"^16.3.2","react-color":"^2.11.7","react-copy-to-clipboard":"^5.0.0","react-dnd":"^5.0.0","react-dnd-html5-backend":"^5.0.1","react-document-title":"^2.0.1","react-dom":"^16.3.2","react-github-button":"^0.1.1","react-infinite-scroller":"^1.0.15","react-intl":"^2.0.1","react-router-dom":"^4.2.2","react-sublime-video":"^0.2.0","react-virtualized":"~9.20.0","remark-frontmatter":"^1.1.0","remark-parse":"^5.0.0","remark-stringify":"^5.0.0","remark-yaml-config":"^4.0.1","reqwest":"^2.0.5","rimraf":"^2.5.4","scrollama":"^1.4.1","stylelint":"9.4.0","stylelint-config-standard":"^18.0.0","typescript":"~2.9.1","unified":"^7.0.0","values.js":"^1.0.3","xhr-mock":"^2.4.0","xhr2":"^0.1.3"},"files":["dist","lib","es"],"homepage":"http://ant.design/","keywords":["ant","design","react","react-component","component","components","ui","framework","frontend"],"license":"MIT","lint-staged":{"components/**/*.tsx":["npm run lint-staged:ts"],"{tests,site,scripts,components}/**/*.{js,jsx}":["npm run lint-staged:es"],"{site,components}/**/*.less":"stylelint --syntax less","components/*/demo/*.md":["npm run lint-staged:demo"]},"main":"lib/index.js","module":"es/index.js","name":"antd","peerDependencies":{"react":">=16.0.0","react-dom":">=16.0.0"},"pre-commit":["lint-staged"],"repository":{"type":"git","url":"git+https://github.com/ant-design/ant-design.git"},"scripts":{"authors":"git log --format='%aN <%aE>' | sort -u | grep -v 'users.noreply.github.com' | grep -v 'gitter.im' | grep -v '.local>' | grep -v 'alibaba-inc.com' | grep -v 'alipay.com' | grep -v 'taobao.com' > AUTHORS.txt","compile":"antd-tools run compile","deploy":"bisheng gh-pages --push-only","dist":"antd-tools run dist","lint":"npm run lint:ts && npm run lint:es && npm run lint:demo && npm run lint:style","lint-fix":"npm run lint-fix:code && npm run lint-fix:demo","lint-fix:code":"eslint --fix tests site scripts components ./.eslintrc.js ./webpack.config.js --ext '.js,.jsx'","lint-fix:demo":"eslint-tinker ./components/*/demo/*.md","lint-fix:ts":"npm run tsc && antd-tools run ts-lint-fix","lint-staged":"lint-staged","lint-staged:demo":"cross-env RUN_ENV=DEMO eslint --ext '.md'","lint-staged:es":"eslint ./.eslintrc.js ./webpack.config.js","lint-staged:ts":"tsc && node node_modules/tslint/bin/tslint","lint:demo":"cross-env RUN_ENV=DEMO eslint components/*/demo/*.md --ext '.md'","lint:es":"eslint tests site scripts components ./.eslintrc.js ./webpack.config.js --ext '.js,.jsx'","lint:style":"stylelint \"{site,components}/**/*.less\" --syntax less","lint:ts":"npm run tsc && antd-tools run ts-lint","pre-publish":"npm run test-all && node ./scripts/prepub","predeploy":"antd-tools run clean && npm run site && cp netlify.toml _site","prepublish":"antd-tools run guard","pub":"antd-tools run pub","site":"cross-env NODE_ENV=production bisheng build --ssr -c ./site/bisheng.config.js && node ./scripts/generateColorLess.js","sort-api":"node ./scripts/sort-api-table.js","start":"rimraf _site && mkdir _site && node ./scripts/generateColorLess.js && cross-env NODE_ENV=development bisheng start -c ./site/bisheng.config.js","start:preact":"node ./scripts/generateColorLess.js && cross-env NODE_ENV=development REACT_ENV=preact bisheng start -c ./site/bisheng.config.js","test":"jest --config .jest.js","test-all":"./scripts/test-all.sh","test-node":"jest --config .jest.node.js","tsc":"tsc"},"sideEffects":["es/**/style/*","lib/**/style/*"],"title":"Ant Design","typings":"lib/index.d.ts","version":"3.7.3"}
 
 /***/ }),
 
@@ -182,8 +182,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(StandardSelect, 'StandardSelect', '/Users/user18/baishu_front/KPI/mhc_admin/components/XSelect/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/XSelect/index.js');
+  reactHotLoader.register(StandardSelect, 'StandardSelect', '/Users/user18/baishu_front/KPI/mhc-admin/components/XSelect/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/XSelect/index.js');
   leaveModule(module);
 })();
 
@@ -489,8 +489,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(DataTable, 'DataTable', '/Users/user18/baishu_front/KPI/mhc_admin/components/XForm/index.js');
-  reactHotLoader.register(FormItem, 'FormItem', '/Users/user18/baishu_front/KPI/mhc_admin/components/XForm/index.js');
+  reactHotLoader.register(DataTable, 'DataTable', '/Users/user18/baishu_front/KPI/mhc-admin/components/XForm/index.js');
+  reactHotLoader.register(FormItem, 'FormItem', '/Users/user18/baishu_front/KPI/mhc-admin/components/XForm/index.js');
   leaveModule(module);
 })();
 
@@ -927,8 +927,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(XTable, 'XTable', '/Users/user18/baishu_front/KPI/mhc_admin/components/XTable/index.js');
-  reactHotLoader.register(noop, 'noop', '/Users/user18/baishu_front/KPI/mhc_admin/components/XTable/index.js');
+  reactHotLoader.register(XTable, 'XTable', '/Users/user18/baishu_front/KPI/mhc-admin/components/XTable/index.js');
+  reactHotLoader.register(noop, 'noop', '/Users/user18/baishu_front/KPI/mhc-admin/components/XTable/index.js');
   leaveModule(module);
 })();
 
@@ -1292,8 +1292,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(ResizeableTableTitle, 'ResizeableTableTitle', '/Users/user18/baishu_front/KPI/mhc_admin/components/XTable/ResizeableTableTitle.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/XTable/ResizeableTableTitle.js');
+  reactHotLoader.register(ResizeableTableTitle, 'ResizeableTableTitle', '/Users/user18/baishu_front/KPI/mhc-admin/components/XTable/ResizeableTableTitle.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/XTable/ResizeableTableTitle.js');
   leaveModule(module);
 })();
 
@@ -1469,10 +1469,10 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(Group, 'Group', '/Users/user18/baishu_front/KPI/mhc_admin/components/XRadioGroup/index.js');
-  reactHotLoader.register(Button, 'Button', '/Users/user18/baishu_front/KPI/mhc_admin/components/XRadioGroup/index.js');
-  reactHotLoader.register(XRadioGroup, 'XRadioGroup', '/Users/user18/baishu_front/KPI/mhc_admin/components/XRadioGroup/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/XRadioGroup/index.js');
+  reactHotLoader.register(Group, 'Group', '/Users/user18/baishu_front/KPI/mhc-admin/components/XRadioGroup/index.js');
+  reactHotLoader.register(Button, 'Button', '/Users/user18/baishu_front/KPI/mhc-admin/components/XRadioGroup/index.js');
+  reactHotLoader.register(XRadioGroup, 'XRadioGroup', '/Users/user18/baishu_front/KPI/mhc-admin/components/XRadioGroup/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/XRadioGroup/index.js');
   leaveModule(module);
 })();
 
@@ -1696,10 +1696,10 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(CheckableTag, 'CheckableTag', '/Users/user18/baishu_front/KPI/mhc_admin/components/TagSelect/index.js');
-  reactHotLoader.register(TagSelectOption, 'TagSelectOption', '/Users/user18/baishu_front/KPI/mhc_admin/components/TagSelect/index.js');
-  reactHotLoader.register(TagSelect, 'TagSelect', '/Users/user18/baishu_front/KPI/mhc_admin/components/TagSelect/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/TagSelect/index.js');
+  reactHotLoader.register(CheckableTag, 'CheckableTag', '/Users/user18/baishu_front/KPI/mhc-admin/components/TagSelect/index.js');
+  reactHotLoader.register(TagSelectOption, 'TagSelectOption', '/Users/user18/baishu_front/KPI/mhc-admin/components/TagSelect/index.js');
+  reactHotLoader.register(TagSelect, 'TagSelect', '/Users/user18/baishu_front/KPI/mhc-admin/components/TagSelect/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/TagSelect/index.js');
   leaveModule(module);
 })();
 
@@ -1962,8 +1962,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(Offcanvas, 'Offcanvas', '/Users/user18/baishu_front/KPI/mhc_admin/components/Offcanvas/index.js');
-  reactHotLoader.register(noop, 'noop', '/Users/user18/baishu_front/KPI/mhc_admin/components/Offcanvas/index.js');
+  reactHotLoader.register(Offcanvas, 'Offcanvas', '/Users/user18/baishu_front/KPI/mhc-admin/components/Offcanvas/index.js');
+  reactHotLoader.register(noop, 'noop', '/Users/user18/baishu_front/KPI/mhc-admin/components/Offcanvas/index.js');
   leaveModule(module);
 })();
 
@@ -2213,7 +2213,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(TextEllipsis, 'TextEllipsis', '/Users/user18/baishu_front/KPI/mhc_admin/components/TextEllipsis/index.js');
+  reactHotLoader.register(TextEllipsis, 'TextEllipsis', '/Users/user18/baishu_front/KPI/mhc-admin/components/TextEllipsis/index.js');
   leaveModule(module);
 })();
 
@@ -2295,7 +2295,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/DescriptionList/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/DescriptionList/index.js');
   leaveModule(module);
 })();
 
@@ -2391,8 +2391,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(DescriptionList, 'DescriptionList', '/Users/user18/baishu_front/KPI/mhc_admin/components/DescriptionList/DescriptionList.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/DescriptionList/DescriptionList.js');
+  reactHotLoader.register(DescriptionList, 'DescriptionList', '/Users/user18/baishu_front/KPI/mhc-admin/components/DescriptionList/DescriptionList.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/DescriptionList/DescriptionList.js');
   leaveModule(module);
 })();
 
@@ -2520,8 +2520,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(Description, 'Description', '/Users/user18/baishu_front/KPI/mhc_admin/components/DescriptionList/Description.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/DescriptionList/Description.js');
+  reactHotLoader.register(Description, 'Description', '/Users/user18/baishu_front/KPI/mhc-admin/components/DescriptionList/Description.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/DescriptionList/Description.js');
   leaveModule(module);
 })();
 
@@ -2566,7 +2566,7 @@ module.exports = exports["default"];
     return;
   }
 
-  reactHotLoader.register(_default, "default", "/Users/user18/baishu_front/KPI/mhc_admin/components/DescriptionList/responsive.js");
+  reactHotLoader.register(_default, "default", "/Users/user18/baishu_front/KPI/mhc-admin/components/DescriptionList/responsive.js");
   leaveModule(module);
 })();
 
@@ -2717,7 +2717,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(BgImg, 'BgImg', '/Users/user18/baishu_front/KPI/mhc_admin/components/BgImg/index.js');
+  reactHotLoader.register(BgImg, 'BgImg', '/Users/user18/baishu_front/KPI/mhc-admin/components/BgImg/index.js');
   leaveModule(module);
 })();
 
@@ -2933,7 +2933,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(CustomBraftEditor, 'CustomBraftEditor', '/Users/user18/baishu_front/KPI/mhc_admin/components/BraftEditor/index.js');
+  reactHotLoader.register(CustomBraftEditor, 'CustomBraftEditor', '/Users/user18/baishu_front/KPI/mhc-admin/components/BraftEditor/index.js');
   leaveModule(module);
 })();
 
@@ -3131,8 +3131,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(CopyToClipboard, 'CopyToClipboard', '/Users/user18/baishu_front/KPI/mhc_admin/components/CopyToClipboard/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/CopyToClipboard/index.js');
+  reactHotLoader.register(CopyToClipboard, 'CopyToClipboard', '/Users/user18/baishu_front/KPI/mhc-admin/components/CopyToClipboard/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/CopyToClipboard/index.js');
   leaveModule(module);
 })();
 
@@ -3267,7 +3267,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(EmptyContent, 'EmptyContent', '/Users/user18/baishu_front/KPI/mhc_admin/components/EmptyContent/index.js');
+  reactHotLoader.register(EmptyContent, 'EmptyContent', '/Users/user18/baishu_front/KPI/mhc-admin/components/EmptyContent/index.js');
   leaveModule(module);
 })();
 
@@ -3367,8 +3367,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(config, 'config', '/Users/user18/baishu_front/KPI/mhc_admin/components/EmptyContent/config.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/EmptyContent/config.js');
+  reactHotLoader.register(config, 'config', '/Users/user18/baishu_front/KPI/mhc-admin/components/EmptyContent/config.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/EmptyContent/config.js');
   leaveModule(module);
 })();
 
@@ -3507,8 +3507,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(Exception, 'Exception', '/Users/user18/baishu_front/KPI/mhc_admin/components/Exception/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/Exception/index.js');
+  reactHotLoader.register(Exception, 'Exception', '/Users/user18/baishu_front/KPI/mhc-admin/components/Exception/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/Exception/index.js');
   leaveModule(module);
 })();
 
@@ -3565,8 +3565,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(config, 'config', '/Users/user18/baishu_front/KPI/mhc_admin/components/Exception/typeConfig.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/Exception/typeConfig.js');
+  reactHotLoader.register(config, 'config', '/Users/user18/baishu_front/KPI/mhc-admin/components/Exception/typeConfig.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/Exception/typeConfig.js');
   leaveModule(module);
 })();
 
@@ -3786,7 +3786,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(FlvPlayer, 'FlvPlayer', '/Users/user18/baishu_front/KPI/mhc_admin/components/FlvPlayer/index.js');
+  reactHotLoader.register(FlvPlayer, 'FlvPlayer', '/Users/user18/baishu_front/KPI/mhc-admin/components/FlvPlayer/index.js');
   leaveModule(module);
 })();
 
@@ -3841,8 +3841,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(ImgViewer, 'ImgViewer', '/Users/user18/baishu_front/KPI/mhc_admin/components/ImgViewer/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/ImgViewer/index.js');
+  reactHotLoader.register(ImgViewer, 'ImgViewer', '/Users/user18/baishu_front/KPI/mhc-admin/components/ImgViewer/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/ImgViewer/index.js');
   leaveModule(module);
 })();
 
@@ -4081,9 +4081,9 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(fixedZero, 'fixedZero', '/Users/user18/baishu_front/KPI/mhc_admin/components/CountDown/index.js');
-  reactHotLoader.register(CountDown, 'CountDown', '/Users/user18/baishu_front/KPI/mhc_admin/components/CountDown/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/CountDown/index.js');
+  reactHotLoader.register(fixedZero, 'fixedZero', '/Users/user18/baishu_front/KPI/mhc-admin/components/CountDown/index.js');
+  reactHotLoader.register(CountDown, 'CountDown', '/Users/user18/baishu_front/KPI/mhc-admin/components/CountDown/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/CountDown/index.js');
   leaveModule(module);
 })();
 
@@ -4193,8 +4193,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(TagIcon, 'TagIcon', '/Users/user18/baishu_front/KPI/mhc_admin/components/TagIcon/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/TagIcon/index.js');
+  reactHotLoader.register(TagIcon, 'TagIcon', '/Users/user18/baishu_front/KPI/mhc-admin/components/TagIcon/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/TagIcon/index.js');
   leaveModule(module);
 })();
 
@@ -4367,8 +4367,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(QRcode, 'QRcode', '/Users/user18/baishu_front/KPI/mhc_admin/components/QRcode/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/QRcode/index.js');
+  reactHotLoader.register(QRcode, 'QRcode', '/Users/user18/baishu_front/KPI/mhc-admin/components/QRcode/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/QRcode/index.js');
   leaveModule(module);
 })();
 
@@ -4539,8 +4539,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(StateTag, 'StateTag', '/Users/user18/baishu_front/KPI/mhc_admin/components/StateTag/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/StateTag/index.js');
+  reactHotLoader.register(StateTag, 'StateTag', '/Users/user18/baishu_front/KPI/mhc-admin/components/StateTag/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/StateTag/index.js');
   leaveModule(module);
 })();
 
@@ -4738,11 +4738,11 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(MonthPicker, 'MonthPicker', '/Users/user18/baishu_front/KPI/mhc_admin/components/DateTimePicker/index.js');
-  reactHotLoader.register(RangePicker, 'RangePicker', '/Users/user18/baishu_front/KPI/mhc_admin/components/DateTimePicker/index.js');
-  reactHotLoader.register(WeekPicker, 'WeekPicker', '/Users/user18/baishu_front/KPI/mhc_admin/components/DateTimePicker/index.js');
-  reactHotLoader.register(DateTimePicker, 'DateTimePicker', '/Users/user18/baishu_front/KPI/mhc_admin/components/DateTimePicker/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/DateTimePicker/index.js');
+  reactHotLoader.register(MonthPicker, 'MonthPicker', '/Users/user18/baishu_front/KPI/mhc-admin/components/DateTimePicker/index.js');
+  reactHotLoader.register(RangePicker, 'RangePicker', '/Users/user18/baishu_front/KPI/mhc-admin/components/DateTimePicker/index.js');
+  reactHotLoader.register(WeekPicker, 'WeekPicker', '/Users/user18/baishu_front/KPI/mhc-admin/components/DateTimePicker/index.js');
+  reactHotLoader.register(DateTimePicker, 'DateTimePicker', '/Users/user18/baishu_front/KPI/mhc-admin/components/DateTimePicker/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/DateTimePicker/index.js');
   leaveModule(module);
 })();
 
@@ -4979,8 +4979,8 @@ module.exports = exports['default'];
         return;
     }
 
-    reactHotLoader.register(XUpload, 'XUpload', '/Users/user18/baishu_front/KPI/mhc_admin/components/XUpload/index.js');
-    reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/components/XUpload/index.js');
+    reactHotLoader.register(XUpload, 'XUpload', '/Users/user18/baishu_front/KPI/mhc-admin/components/XUpload/index.js');
+    reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/components/XUpload/index.js');
     leaveModule(module);
 })();
 
@@ -5420,7 +5420,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -5441,7 +5441,7 @@ module.exports = {
       key: "render",
       value: function render() {
         var con = '<p><span style="color:#ff0000;">Hello World!</span></p>';
-        return React.createElement(_mhcAntdAdmin.BraftEditor, {
+        return React.createElement(_mhcAdmin.BraftEditor, {
           height: 400,
           initialContent: con
         });
@@ -5667,7 +5667,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -5744,7 +5744,7 @@ module.exports = {
                 className: "code-box-actions"
               },
               React.createElement(
-                _mhcAntdAdmin.CopyToClipboard,
+                _mhcAdmin.CopyToClipboard,
                 {
                   text: text,
                   onCopy: this.onCopy
@@ -5818,7 +5818,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -5874,7 +5874,7 @@ module.exports = {
               className: copied ? 'copied' : ''
             },
             React.createElement(
-              _mhcAntdAdmin.CopyToClipboard,
+              _mhcAdmin.CopyToClipboard,
               {
                 text: text,
                 onCopy: this.onCopy
@@ -6111,10 +6111,10 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   var targetTime = new Date().getTime() + 3900000;
-  return React.createElement(_mhcAntdAdmin.CountDown, {
+  return React.createElement(_mhcAdmin.CountDown, {
     style: {
       fontSize: 20
     },
@@ -6283,9 +6283,9 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
-  return React.createElement(_mhcAntdAdmin.DateTimePicker, {
+  return React.createElement(_mhcAdmin.DateTimePicker, {
     type: "DatePicker",
     title: "开始日期",
     required: true
@@ -6757,11 +6757,11 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
-  var Description = _mhcAntdAdmin.DescriptionList.Description;
+  var Description = _mhcAdmin.DescriptionList.Description;
   return React.createElement(
-    _mhcAntdAdmin.DescriptionList,
+    _mhcAdmin.DescriptionList,
     {
       size: "large",
       layout: "horizontal"
@@ -6853,11 +6853,11 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
-  var Description = _mhcAntdAdmin.DescriptionList.Description;
+  var Description = _mhcAdmin.DescriptionList.Description;
   return React.createElement(
-    _mhcAntdAdmin.DescriptionList,
+    _mhcAdmin.DescriptionList,
     {
       size: "large",
       layout: "vertical"
@@ -7251,7 +7251,7 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   var _antd = __webpack_require__(20);
 
@@ -7274,7 +7274,7 @@ module.exports = {
       "Detail"
     )
   );
-  return React.createElement(_mhcAntdAdmin.EmptyContent, {
+  return React.createElement(_mhcAdmin.EmptyContent, {
     type: "load"
   });
 }
@@ -7313,7 +7313,7 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   var _antd = __webpack_require__(20);
 
@@ -7336,7 +7336,7 @@ module.exports = {
       "Detail"
     )
   );
-  return React.createElement(_mhcAntdAdmin.EmptyContent, {
+  return React.createElement(_mhcAdmin.EmptyContent, {
     type: "search"
   });
 }
@@ -7474,7 +7474,7 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   var _antd = __webpack_require__(20);
 
@@ -7497,7 +7497,7 @@ module.exports = {
       "Detail"
     )
   );
-  return React.createElement(_mhcAntdAdmin.Exception, {
+  return React.createElement(_mhcAdmin.Exception, {
     type: "403",
     actions: actions
   });
@@ -7545,9 +7545,9 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
-  return React.createElement(_mhcAntdAdmin.Exception, {
+  return React.createElement(_mhcAdmin.Exception, {
     type: "404"
   });
 }
@@ -7594,9 +7594,9 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
-  return React.createElement(_mhcAntdAdmin.Exception, {
+  return React.createElement(_mhcAdmin.Exception, {
     type: "500"
   });
 }
@@ -7840,7 +7840,7 @@ module.exports = {
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -7863,7 +7863,7 @@ module.exports = {
         return React.createElement(
           "div",
           null,
-          React.createElement(_mhcAntdAdmin.FlvPlayer, {
+          React.createElement(_mhcAdmin.FlvPlayer, {
             url: "https://vjs.zencdn.net/v/oceans.mp4",
             type: "mp4",
             cors: true,
@@ -8052,7 +8052,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -8138,7 +8138,7 @@ module.exports = {
               );
             }
           }),
-          React.createElement(_mhcAntdAdmin.ImgViewer, {
+          React.createElement(_mhcAdmin.ImgViewer, {
             visible: visible,
             onClose: hideImgViewer,
             images: images,
@@ -8268,7 +8268,7 @@ module.exports = {
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   var _antd = __webpack_require__(20);
 
@@ -8319,7 +8319,7 @@ module.exports = {
             "显示详情"
           ),
           React.createElement(
-            _mhcAntdAdmin.Offcanvas,
+            _mhcAdmin.Offcanvas,
             {
               show: this.state.show,
               position: "right",
@@ -8707,9 +8707,9 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
-  return React.createElement(_mhcAntdAdmin.QRcode, {
+  return React.createElement(_mhcAdmin.QRcode, {
     text: "生成二维码",
     size: 150,
     colsize: 12
@@ -8874,7 +8874,7 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   var tagtype = [{
     key: '-1',
@@ -8921,52 +8921,52 @@ module.exports = {
   return React.createElement(
     "div",
     null,
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype_yanche,
       code: 5,
       style: 'dot'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype_yanche,
       code: 10,
       style: 'dot'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype_yanche,
       code: 15,
       style: 'dot'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype_yanche,
       code: 99,
       style: 'dot'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype_yanche,
       code: 76,
       style: 'dot'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype,
       code: 2,
       style: 'line'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype,
       code: 1,
       style: 'line'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype,
       code: 0,
       style: 'line'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype,
       code: 3,
       style: 'line'
     }),
-    React.createElement(_mhcAntdAdmin.StateTag, {
+    React.createElement(_mhcAdmin.StateTag, {
       state: tagtype,
       code: -1,
       style: 'line'
@@ -9131,43 +9131,43 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   return React.createElement(
     "div",
     null,
-    React.createElement(_mhcAntdAdmin.TagIcon, {
+    React.createElement(_mhcAdmin.TagIcon, {
       color: "#faad14",
       text: "待接单",
       type: "check-circle"
     }),
     React.createElement("br", null),
-    React.createElement(_mhcAntdAdmin.TagIcon, {
+    React.createElement(_mhcAdmin.TagIcon, {
       color: "gray",
       text: "待调度",
       type: "loading"
     }),
     React.createElement("br", null),
-    React.createElement(_mhcAntdAdmin.TagIcon, {
+    React.createElement(_mhcAdmin.TagIcon, {
       color: "green",
       text: "进行中",
       type: "clock-circle-o",
       spin: "true"
     }),
     React.createElement("br", null),
-    React.createElement(_mhcAntdAdmin.TagIcon, {
+    React.createElement(_mhcAdmin.TagIcon, {
       color: "rgb(49, 216, 13)",
       text: "已完成",
       type: "check-circle"
     }),
     React.createElement("br", null),
-    React.createElement(_mhcAntdAdmin.TagIcon, {
+    React.createElement(_mhcAdmin.TagIcon, {
       color: "red",
       text: "已关闭",
       type: "close-circle"
     }),
     React.createElement("br", null),
-    React.createElement(_mhcAntdAdmin.TagIcon, {
+    React.createElement(_mhcAdmin.TagIcon, {
       color: "pink",
       text: "已取消",
       type: "minus-circle-o"
@@ -9354,54 +9354,54 @@ module.exports = {
 
   var ReactDOM = __webpack_require__(10);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function handleFormSubmit(checkedValue) {
     console.log(checkedValue);
   }
 
   return React.createElement(
-    _mhcAntdAdmin.TagSelect,
+    _mhcAdmin.TagSelect,
     {
       onChange: handleFormSubmit
     },
     React.createElement(
-      _mhcAntdAdmin.TagSelect.Option,
+      _mhcAdmin.TagSelect.Option,
       {
         value: "cat1"
       },
       "类目一"
     ),
     React.createElement(
-      _mhcAntdAdmin.TagSelect.Option,
+      _mhcAdmin.TagSelect.Option,
       {
         value: "cat2"
       },
       "类目二"
     ),
     React.createElement(
-      _mhcAntdAdmin.TagSelect.Option,
+      _mhcAdmin.TagSelect.Option,
       {
         value: "cat3"
       },
       "类目三"
     ),
     React.createElement(
-      _mhcAntdAdmin.TagSelect.Option,
+      _mhcAdmin.TagSelect.Option,
       {
         value: "cat4"
       },
       "类目四"
     ),
     React.createElement(
-      _mhcAntdAdmin.TagSelect.Option,
+      _mhcAdmin.TagSelect.Option,
       {
         value: "cat5"
       },
       "类目五"
     ),
     React.createElement(
-      _mhcAntdAdmin.TagSelect.Option,
+      _mhcAdmin.TagSelect.Option,
       {
         value: "cat6"
       },
@@ -9680,7 +9680,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -9771,7 +9771,7 @@ module.exports = {
                 width: 200
               }
             },
-            React.createElement(_mhcAntdAdmin.TextEllipsis, {
+            React.createElement(_mhcAdmin.TextEllipsis, {
               tooltip: true,
               collapsed: this.state.collapsed,
               height: this.state.height,
@@ -10050,7 +10050,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -10168,7 +10168,7 @@ module.exports = {
           onReset: this.onReset,
           submitText: '查询'
         };
-        return React.createElement(_mhcAntdAdmin.XForm, {
+        return React.createElement(_mhcAdmin.XForm, {
           items: items,
           actionsConfig: actionsConfig,
           loading: this.state.loading
@@ -10650,7 +10650,7 @@ module.exports = {
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -10702,7 +10702,7 @@ module.exports = {
     _createClass(App, [{
       key: "render",
       value: function render() {
-        return React.createElement(_mhcAntdAdmin.XRadioGroup, {
+        return React.createElement(_mhcAdmin.XRadioGroup, {
           current: this.state.current,
           onChange: this.onStateChange,
           data: INSPECT_STATUS,
@@ -10949,7 +10949,7 @@ module.exports = {
 
   var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -10980,7 +10980,7 @@ module.exports = {
     _createClass(App, [{
       key: "render",
       value: function render() {
-        return React.createElement(_mhcAntdAdmin.XSelect, {
+        return React.createElement(_mhcAdmin.XSelect, {
           data: CONTACT_INFO_TYPE,
           style: {
             width: 140
@@ -11247,7 +11247,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   var _axios = __webpack_require__(1617);
 
@@ -11411,7 +11411,7 @@ module.exports = {
           React.createElement(
             "div",
             null,
-            React.createElement(_mhcAntdAdmin.XRadioGroup, {
+            React.createElement(_mhcAdmin.XRadioGroup, {
               style: {
                 marginRight: 8
               },
@@ -11459,7 +11459,7 @@ module.exports = {
             x: 1700
           }
         };
-        return React.createElement(_mhcAntdAdmin.XTable, _extends({
+        return React.createElement(_mhcAdmin.XTable, _extends({
           toolbar: toolbar,
           columnResizable: true,
           showColumnSelection: true
@@ -11768,7 +11768,7 @@ module.exports = {
 
     var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-    var _mhcAntdAdmin = __webpack_require__(25);
+    var _mhcAdmin = __webpack_require__(25);
 
     var _react = __webpack_require__(0);
 
@@ -11853,7 +11853,7 @@ module.exports = {
                 );
 
                 return _react2.default.createElement(
-                    _mhcAntdAdmin.XUpload,
+                    _mhcAdmin.XUpload,
                     {
                         action: "http://golf.maihaoche.com/uploadImage",
                         listType: "picture-card",
@@ -11921,7 +11921,7 @@ module.exports = {
 
     var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-    var _mhcAntdAdmin = __webpack_require__(25);
+    var _mhcAdmin = __webpack_require__(25);
 
     var _react = __webpack_require__(0);
 
@@ -11995,7 +11995,7 @@ module.exports = {
                 );
 
                 return _react2.default.createElement(
-                    _mhcAntdAdmin.XUpload,
+                    _mhcAdmin.XUpload,
                     {
                         action: "http://golf.maihaoche.com/uploadImage",
                         fileList: this.state.fileList,
@@ -12519,7 +12519,7 @@ module.exports = {
     "article",
     [
       "p",
-      "MHC Antd Admin 致力于提供给提升管理平台前端的开发体验和开发效率。"
+      "MHC Admin 致力于提供给提升管理平台前端的开发体验和开发效率。"
     ],
     [
       "blockquote",
@@ -12587,7 +12587,7 @@ module.exports = {
       "pre",
       {
         "lang": null,
-        "highlighted": "npm install mhc<span class=\"token operator\">-</span>antd<span class=\"token operator\">-</span>admin <span class=\"token operator\">-</span><span class=\"token operator\">-</span>save"
+        "highlighted": "npm install mhc<span class=\"token operator\">-</span>admin <span class=\"token operator\">-</span><span class=\"token operator\">-</span>save"
       },
       [
         "code",
@@ -13544,9 +13544,9 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(SubMenu, 'SubMenu', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/SideMenu/index.js');
-  reactHotLoader.register(MenuItemGroup, 'MenuItemGroup', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/SideMenu/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/SideMenu/index.js');
+  reactHotLoader.register(SubMenu, 'SubMenu', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/SideMenu/index.js');
+  reactHotLoader.register(MenuItemGroup, 'MenuItemGroup', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/SideMenu/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/SideMenu/index.js');
   leaveModule(module);
 })();
 
@@ -13615,7 +13615,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ArticleDoc/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ArticleDoc/index.js');
   leaveModule(module);
 })();
 
@@ -13914,7 +13914,7 @@ var ComponentDoc = function (_React$PureComponent) {
                 _react2.default.createElement(
                   'span',
                   { className: 'token string' },
-                  '\'mhc-antd-amdin\''
+                  '\'mhc-amdin\''
                 ),
                 _react2.default.createElement(
                   'span',
@@ -13969,8 +13969,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(handleAffixChange, 'handleAffixChange', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ComponentDoc/index.js');
-  reactHotLoader.register(ComponentDoc, 'ComponentDoc', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ComponentDoc/index.js');
+  reactHotLoader.register(handleAffixChange, 'handleAffixChange', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ComponentDoc/index.js');
+  reactHotLoader.register(ComponentDoc, 'ComponentDoc', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ComponentDoc/index.js');
   leaveModule(module);
 })();
 
@@ -14105,7 +14105,7 @@ var Banner = function (_React$PureComponent) {
             _react2.default.createElement(
               'h1',
               { key: 'h1' },
-              'MHC Antd Admin'
+              'MHC Admin'
             ),
             _react2.default.createElement(
               'p',
@@ -14160,9 +14160,9 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(loop, 'loop', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/index.js');
-  reactHotLoader.register(Banner, 'Banner', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/index.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/index.js');
+  reactHotLoader.register(loop, 'loop', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/index.js');
+  reactHotLoader.register(Banner, 'Banner', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/index.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/index.js');
   leaveModule(module);
 })();
 
@@ -14229,8 +14229,8 @@ function ping(callback) {
     return;
   }
 
-  reactHotLoader.register(obj2arr, 'obj2arr', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/utils.js');
-  reactHotLoader.register(ping, 'ping', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/utils.js');
+  reactHotLoader.register(obj2arr, 'obj2arr', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/utils.js');
+  reactHotLoader.register(ping, 'ping', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/utils.js');
   leaveModule(module);
 })();
 
@@ -14465,7 +14465,7 @@ if (ENV !== 'production' && ENV !== 'test' && typeof console !== 'undefined' && 
     return;
   }
 
-  reactHotLoader.register(ENV, 'ENV', '/Users/user18/baishu_front/KPI/mhc_admin/components/index.js');
+  reactHotLoader.register(ENV, 'ENV', '/Users/user18/baishu_front/KPI/mhc-admin/components/index.js');
   leaveModule(module);
 })();
 
@@ -15178,7 +15178,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(NotFound, 'NotFound', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/NotFound.js');
+  reactHotLoader.register(NotFound, 'NotFound', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/NotFound.js');
   leaveModule(module);
 })();
 
@@ -15233,7 +15233,7 @@ var _default = function _default(props) {
       _react2.default.createElement(
         'h2',
         null,
-        'MHC Antd Admin'
+        'MHC Admin'
       ),
       _react2.default.createElement(
         _menu2.default,
@@ -15264,7 +15264,7 @@ var _default = function _default(props) {
           ' ',
           _react2.default.createElement(
             'a',
-            { href: 'https://github.com/git-lt/mhc-admin/tree/master' },
+            { href: 'https://github.com/lsabella/mhc-admin/tree/master' },
             'Github'
           )
         )
@@ -15289,8 +15289,8 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(MenuItem, 'MenuItem', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Layout/Header.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Layout/Header.js');
+  reactHotLoader.register(MenuItem, 'MenuItem', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Layout/Header.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Layout/Header.js');
   leaveModule(module);
 })();
 
@@ -15353,7 +15353,7 @@ var _default = function _default(props) {
       _react2.default.createElement(
         "a",
         { href: "#", target: "_blank" },
-        "MHC-FE"
+        "MHC-FE-Baishu"
       )
     )
   );
@@ -15372,7 +15372,7 @@ module.exports = exports["default"];
     return;
   }
 
-  reactHotLoader.register(_default, "default", "/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Layout/Footer.js");
+  reactHotLoader.register(_default, "default", "/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Layout/Footer.js");
   leaveModule(module);
 })();
 
@@ -16005,10 +16005,10 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(antdProCodeFormat, 'antdProCodeFormat', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ComponentDoc/Demo.js');
-  reactHotLoader.register(compress, 'compress', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ComponentDoc/Demo.js');
-  reactHotLoader.register(antdProCodeFormatCodepen, 'antdProCodeFormatCodepen', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ComponentDoc/Demo.js');
-  reactHotLoader.register(Demo, 'Demo', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ComponentDoc/Demo.js');
+  reactHotLoader.register(antdProCodeFormat, 'antdProCodeFormat', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ComponentDoc/Demo.js');
+  reactHotLoader.register(compress, 'compress', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ComponentDoc/Demo.js');
+  reactHotLoader.register(antdProCodeFormatCodepen, 'antdProCodeFormatCodepen', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ComponentDoc/Demo.js');
+  reactHotLoader.register(Demo, 'Demo', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ComponentDoc/Demo.js');
   leaveModule(module);
 })();
 
@@ -16096,7 +16096,7 @@ module.exports = exports["default"];
     return;
   }
 
-  reactHotLoader.register(BrowserFrame, "BrowserFrame", "/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/ComponentDoc/BrowserFrame.js");
+  reactHotLoader.register(BrowserFrame, "BrowserFrame", "/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/ComponentDoc/BrowserFrame.js");
   leaveModule(module);
 })();
 
@@ -16335,14 +16335,14 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(TweenOneG, 'TweenOneG', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
-  reactHotLoader.register(duration, 'duration', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
-  reactHotLoader.register(ease, 'ease', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
-  reactHotLoader.register(p, 'p', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
-  reactHotLoader.register(easePath, 'easePath', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
-  reactHotLoader.register(loop, 'loop', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
-  reactHotLoader.register(animate, 'animate', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(TweenOneG, 'TweenOneG', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(duration, 'duration', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(ease, 'ease', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(p, 'p', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(easePath, 'easePath', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(loop, 'loop', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(animate, 'animate', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/components/Banner/BannerImage.js');
   leaveModule(module);
 })();
 
@@ -16486,7 +16486,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/Doc.js');
+  reactHotLoader.register(_default, 'default', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/Doc.js');
   leaveModule(module);
 })();
 
@@ -16574,7 +16574,7 @@ module.exports = exports['default'];
     return;
   }
 
-  reactHotLoader.register(Home, 'Home', '/Users/user18/baishu_front/KPI/mhc_admin/site/theme/template/Home.js');
+  reactHotLoader.register(Home, 'Home', '/Users/user18/baishu_front/KPI/mhc-admin/site/theme/template/Home.js');
   leaveModule(module);
 })();
 
@@ -16945,7 +16945,7 @@ module.exports = {
 
   var _antd = __webpack_require__(20);
 
-  var _mhcAntdAdmin = __webpack_require__(25);
+  var _mhcAdmin = __webpack_require__(25);
 
   function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -17022,7 +17022,7 @@ module.exports = {
                   _antd.Card,
                   null,
                   React.createElement(
-                    _mhcAntdAdmin.BgImg,
+                    _mhcAdmin.BgImg,
                     {
                       width: 160,
                       height: 100,
