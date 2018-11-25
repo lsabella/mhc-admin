@@ -34,3 +34,4 @@ export { default as QRcode } from './QRcode';
 export { default as StateTag } from './StateTag';
 export { default as DateTimePicker } from './DateTimePicker';
 export { default as XUpload } from './XUpload';
+export { default as TagCloud } from './TagCloud';
