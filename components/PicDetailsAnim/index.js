@@ -6,22 +6,22 @@ import TweenOne, { TweenOneGroup } from 'rc-tween-one';
 import './index.less';
 
 class PicDetailsAnim extends React.Component {
-static propTypes = {
+  static propTypes = {
     className: PropTypes.string,
-};
+  };
 
-static defaultProps = {
-    className: 'pic-details-demo',
-};
+  static defaultProps = {
+      className: 'pic-details-demo',
+  };
 
-constructor(props) {
+  constructor(props) {
     super(props);
     this.state = {
     picOpen: {},
     };
-}
+  }
 
-onImgClick = (e, i) => {
+  onImgClick = (e, i) => {
     const { picOpen } = this.state;
     Object.keys(picOpen).forEach((key) => {
     if (key !== i && picOpen[key]) {
@@ -32,31 +32,31 @@ onImgClick = (e, i) => {
     this.setState({
     picOpen,
     });
-};
+  };
 
-onClose = (e, i) => {
+  onClose = (e, i) => {
     const { picOpen } = this.state;
     picOpen[i] = false;
     this.setState({
     picOpen,
     });
-};
+  };
 
-onTweenEnd = (i) => {
+  onTweenEnd = (i) => {
     const { picOpen } = this.state;
     delete picOpen[i];
     this.setState({
     picOpen,
     });
-};
+  };
 
-getDelay = (e) => {
+  getDelay = (e) => {
     let dataArray = this.props.imgArray
     const i = e.index + dataArray.length % 4;
     return (i % 4) * 100 + Math.floor(i / 4) * 100 + 200;
-};
+  };
 
-getLiChildren = () => {
+  getLiChildren = () => {
     const imgWidth = 110;
     const imgHeight = 76;
     const imgBoxWidth = 130;
@@ -151,9 +151,9 @@ getLiChildren = () => {
         </TweenOne>
     );
     });
-};
+  };
 
-render() {
+  render() {
     return (
     <div>
         <div className={this.props.className} style={{ "height": this.props.height }}>
@@ -169,6 +169,6 @@ render() {
         </div>
     </div>
     );
-}
+  }
 }
 export default PicDetailsAnim;

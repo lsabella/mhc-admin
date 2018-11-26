@@ -51,8 +51,9 @@ npm run deploy
 - [X] 富文本编辑器 BraftEditor
 - [X] 复制内容 copy-to-clipboard 
 - [X] 倒计时 CountDown
-- [X] 生成二维码
-- [X] 标签云
+- [X] 生成二维码 QRcode
+- [X] 标签云 TagCloud
+- [X] 图片详细切换 PicDetailsAnim
 - [ ] EditableText 可编辑的文本
 - [ ] 图片上传（查看、替换、删除、列表）
 - [ ] 图片裁剪
