@@ -36,3 +36,4 @@ export { default as DateTimePicker } from './DateTimePicker';
 export { default as XUpload } from './XUpload';
 export { default as TagCloud } from './TagCloud';
 export { default as PicDetailsAnim } from './PicDetailsAnim';
+export { default as DetailSwitch } from './DetailSwitch';

@@ -15,7 +15,7 @@ The simplest usage.
 ````jsx
 import {PicDetailsAnim} from 'mhc-admin';
 
-const imgArray=[
+const dataArray=[
 { image: 'https://zos.alipayobjects.com/rmsportal/DGOtoWASeguMJgV.png', content:'天门山，古称云梦山、嵩梁山，是张家界最早被记入史册的名山。', title:'照片111' },
 { image: 'https://zos.alipayobjects.com/rmsportal/BXJNKCeUSkhQoSS.png', content:'千年玄狐，跨越人间仙界的爱情天堑 万年守望，感召天门绝境的生死恋歌', title:'照片222' },
 { image: 'https://zos.alipayobjects.com/rmsportal/TDIbcrKdLWVeWJM.png', content:'红石林国家地质公园位于湘西自治州古丈县茄通和断龙乡境内，面积约三十平方公里，距古丈县城26公里', title:'照片333' },
@@ -35,6 +35,6 @@ const imgArray=[
 ];
 
 ReactDOM.render(
-  <PicDetailsAnim imgArray={imgArray} height="375px"/>
+  <PicDetailsAnim dataArray={dataArray} height="375px"/>
 , mountNode);
 ````
